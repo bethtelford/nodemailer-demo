@@ -46,5 +46,3 @@ app.post('/api/mail', (req, res) => {
 
 
 app.listen(PORT, _=> console.log(`Housten we have lift off on port ${PORT}`));
-
-//test
